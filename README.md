@@ -1,46 +1,17 @@
-# Getting Started with Create React App
+### Site de venda de produtos para esportes
+[Veja o site](https://sports-accessories.vercel.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Ferramentas utiliizadas:
+[![My Skills](https://skillicons.dev/icons?i=html,ts,react,styledcomponents,git,vercel)](https://skillicons.dev)
 
-## Available Scripts
+### Lista completa:
+HTML | TypeScript | React | React Hooks | React Toolkit Query | API | Styled-components | ESLint | Prettier | Editor Config | Git | Vercel
 
-In the project directory, you can run:
+Este projeto foi construido para exercitar meus conhecimentos sobre React com Redux, além de ser realizada a utilização do fetchBaseQuery do "redux toolkit query" para coletar as informações contidas no site: "https://fake-api-tau.vercel.app/api", realizar a filtragem dos dados e renderização dos componentes para o usuário.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image](https://github.com/user-attachments/assets/fae9d6c1-5284-44bb-92a5-369964e84d7c)
+<br/>
+<br/>
+<br/>
+<br/>
+![image](https://github.com/user-attachments/assets/fbe44bd0-0710-4957-9b0a-95ac3b7ed73c)
